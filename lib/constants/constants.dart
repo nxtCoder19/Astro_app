@@ -1,0 +1,19 @@
+const SIGNUP = '/signup',
+      HOME_PAGE = '/homepage',
+      LOGIN = '/login',
+      OTP_SCREEN = '/otpscreen',
+      SPLASH_SCREEN = '/splashcreen',
+      SELECT_GENDER_SCREEN = '/selectgenderscreen',
+      RELATIONSHIP_STATUS_SCREEN = '/relationshipstatus',
+      TIME_OF_BIRTH_SCREEN = '/timeofbirth',
+      PLACE_OF_BIRTH_SCREEN = '/placeofbirth',
+      ADD_MORE_INFO_SCREEN = '/addmoreinfo',
+      MATCHES_SCREEN = '/matchesScreen',
+      MATCHES_DETAILS_SCREEN = '/matchesdetailsscreen',
+      PROFILE_SCREEN = '/profilescreen',
+      SETTING_SCREEN = '/settingscreen',
+      EDIT_INFO_SCREEN = '/editinfoscreen';
+
+const String HOST = 'http://';
+const String defaultMatchesImage = 'assets/images/portrait.jpeg';
+//const String defaultCategoryImage = 'assets/images/darkgrey.jpeg';
